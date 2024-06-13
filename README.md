@@ -12,19 +12,19 @@
 
 # Aplicações
 
-#### ***Navegação***	: O filtro de Kalman é comumente usado em sistemas de navegação inercial para estimar a posição, velocidade e orientação de veículos, como aeronaves, navios e veículos espaciais.
+#### ***Navegação***: O filtro de Kalman é comumente usado em sistemas de navegação inercial para estimar a posição, velocidade e orientação de veículos, como aeronaves, navios e veículos espaciais.
 
 #### ***Processamento de sinais***: É aplicado em várias áreas de processamento de sinais, como comunicações sem fio, radar e sonar, para estimar e filtrar sinais ruidosos.
 
-#### ***Visão Computacional e Rastreamento de Objetos***:: Utilizado em sistemas de visão computacional e rastreamento de objetos para prever a posição futura de objetos em movimento e reduzir o ruído nas estimativas de localização.
+#### ***Visão Computacional e Rastreamento de Objetos***: Utilizado em sistemas de visão computacional e rastreamento de objetos para prever a posição futura de objetos em movimento e reduzir o ruído nas estimativas de localização.
 
-#### ***Robótica***:: No controle de robôs móveis e manipuladores, o filtro de Kalman é usado para estimar a pose do robô, localização em ambientes desconhecidos e localização de objetos.
+#### ***Robótica***: No controle de robôs móveis e manipuladores, o filtro de Kalman é usado para estimar a pose do robô, localização em ambientes desconhecidos e localização de objetos.
 
-#### ***Previsão Meteorológica***:: O filtro de Kalman é aplicado em modelos meteorológicos para combinar dados de várias fontes, como satélites, radares e estações meteorológicas, para fazer previsões mais precisas.
+#### ***Previsão Meteorológica***: O filtro de Kalman é aplicado em modelos meteorológicos para combinar dados de várias fontes, como satélites, radares e estações meteorológicas, para fazer previsões mais precisas.
 
-#### ***Engenharia de Controle***:: É usado em sistemas de controle para estimar o estado de um sistema dinâmico a partir de observações indiretas, permitindo o controle do sistema com base nessas estimativas.
+#### ***Engenharia de Controle***: É usado em sistemas de controle para estimar o estado de um sistema dinâmico a partir de observações indiretas, permitindo o controle do sistema com base nessas estimativas.
 
-#### ***Estimativa de Estado em Economia e Finanças***:: Em finanças, é usado para estimar a evolução de preços de ativos financeiros e outras variáveis econômicas, ajudando na previsão e tomada de decisões de investimento.
+#### ***Estimativa de Estado em Economia e Finanças***: Em finanças, é usado para estimar a evolução de preços de ativos financeiros e outras variáveis econômicas, ajudando na previsão e tomada de decisões de investimento.
 
 #### ***Processamento de Imagens Médicas***: Aplicado em diversas técnicas de processamento de imagens médicas, como ressonância magnética, tomografia computadorizada e ultrassom, para melhorar a qualidade das imagens e extrair informações relevantes.
 
